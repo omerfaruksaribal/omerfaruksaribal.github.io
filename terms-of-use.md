@@ -1,6 +1,6 @@
 # Terms of Use (EULA) for UniBudget
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ## 1. Acceptance of Terms
 
@@ -86,8 +86,8 @@ These Terms are governed by the laws of the Republic of Turkey.
 ## 13. Contact
 
 For questions about these Terms:  
-**Email:** omerfaruksaribal0@gmail.com
+**Email:** omerfaruksaribal@gmail.com
 
 ---
 
-© 2024 UniBudget. All rights reserved.
+© 2025 UniBudget. All rights reserved.
