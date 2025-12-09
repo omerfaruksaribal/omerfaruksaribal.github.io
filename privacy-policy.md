@@ -1,6 +1,6 @@
 # Privacy Policy for UniBudget
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ## Introduction
 
@@ -63,8 +63,8 @@ We may update this Privacy Policy. Changes will be posted within the app and on 
 ## Contact Us
 
 For questions about this Privacy Policy:  
-**Email:** omerfaruksaribal0@gmail.com
+**Email:** omerfaruksaribal@hotmail.com
 
 ---
 
-© 2024 UniBudget. All rights reserved.
+© 2025 UniBudget. All rights reserved.
