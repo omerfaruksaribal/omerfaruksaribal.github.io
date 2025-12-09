@@ -66,7 +66,7 @@ We may update this Privacy Policy. Changes will be posted within the app and on 
 ## Contact Us
 
 For questions about this Privacy Policy:  
-**Email:** omerfaruksaribal@hotmail.com
+**Email:** omerfaruksaribal@gmail.com
 
 ---
 
