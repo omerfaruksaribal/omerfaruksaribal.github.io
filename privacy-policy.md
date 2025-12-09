@@ -1,6 +1,6 @@
 # Privacy Policy for UniBudget
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ## Introduction
 
@@ -9,11 +9,13 @@ UniBudget ("we", "our", or "us") is committed to protecting your privacy. This P
 ## Information We Collect
 
 ### Data You Provide
+
 - **Transaction Data:** Income, expenses, categories, and notes you enter
 - **Budget Information:** Budget limits and alert thresholds
 - **Preferences:** Language, currency, theme settings
 
 ### Automatically Collected Data
+
 - **Device Information:** Device type, operating system version
 - **Usage Analytics:** App usage patterns (via Firebase Analytics)
 - **Advertising Identifier:** For personalized ads (if you consent via ATT)
@@ -33,11 +35,11 @@ All your personal financial data (transactions, budgets, categories) is stored *
 
 We use the following third-party services:
 
-| Service | Purpose | Privacy Policy |
-|---------|---------|----------------|
+| Service            | Purpose         | Privacy Policy                                         |
+| ------------------ | --------------- | ------------------------------------------------------ |
 | Firebase Analytics | Usage analytics | [Link](https://firebase.google.com/policies/analytics) |
-| Google AdMob | Advertising | [Link](https://policies.google.com/privacy) |
-| OpenAI | AI Chatbot | [Link](https://openai.com/privacy) |
+| Google AdMob       | Advertising     | [Link](https://policies.google.com/privacy)            |
+| OpenAI             | AI Chatbot      | [Link](https://openai.com/privacy)                     |
 
 ## Advertising
 
@@ -48,6 +50,7 @@ We use the following third-party services:
 ## Your Rights
 
 You can:
+
 - Delete all your data by uninstalling the app
 - Opt out of tracking via iOS Settings
 - Contact us for data-related inquiries
@@ -63,8 +66,8 @@ We may update this Privacy Policy. Changes will be posted within the app and on 
 ## Contact Us
 
 For questions about this Privacy Policy:  
-**Email:** omerfaruksaribal0@gmail.com
+**Email:** omerfaruksaribal@hotmail.com
 
 ---
 
-© 2024 UniBudget. All rights reserved.
+© 2025 UniBudget. All rights reserved.

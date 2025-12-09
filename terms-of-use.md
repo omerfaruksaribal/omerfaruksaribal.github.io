@@ -1,6 +1,6 @@
 # Terms of Use (EULA) for UniBudget
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ## 1. Acceptance of Terms
 
@@ -9,6 +9,7 @@ By downloading, installing, or using UniBudget ("App"), you agree to be bound by
 ## 2. Description of Service
 
 UniBudget is a personal finance management application that allows users to:
+
 - Track income and expenses
 - Set and monitor budgets
 - Use AI-powered financial assistant
@@ -23,22 +24,26 @@ UniBudget is a personal finance management application that allows users to:
 ## 4. Subscriptions and Payments
 
 ### Premium Subscription
+
 - UniBudget offers optional Premium subscriptions
 - Subscriptions are billed through your Apple ID account
 - Prices are displayed in the App before purchase
 
 ### Auto-Renewal
+
 - Subscriptions automatically renew unless cancelled
 - Cancel at least 24 hours before the end of the current period
 - Manage subscriptions in iOS Settings → Apple ID → Subscriptions
 
 ### Refunds
+
 - Refund requests must be submitted to Apple
 - We do not process refunds directly
 
 ## 5. Acceptable Use
 
 You agree NOT to:
+
 - Use the App for illegal purposes
 - Attempt to hack or reverse-engineer the App
 - Use the AI chatbot for non-financial queries
@@ -55,6 +60,7 @@ You agree NOT to:
 THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 
 We do not guarantee:
+
 - The App will be error-free
 - Financial advice accuracy
 - Continuous availability
@@ -62,6 +68,7 @@ We do not guarantee:
 ## 8. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+
 - We are not liable for any indirect, incidental, or consequential damages
 - Our total liability shall not exceed the amount you paid for the App
 
@@ -72,6 +79,7 @@ Your use of the App is also governed by our [Privacy Policy](privacy-policy.md).
 ## 10. Termination
 
 We may terminate or suspend your access to the App:
+
 - If you violate these Terms
 - At our sole discretion
 
@@ -86,8 +94,8 @@ These Terms are governed by the laws of the Republic of Turkey.
 ## 13. Contact
 
 For questions about these Terms:  
-**Email:** omerfaruksaribal0@gmail.com
+**Email:** omerfaruksaribal@gmail.com
 
 ---
 
-© 2024 UniBudget. All rights reserved.
+© 2025 UniBudget. All rights reserved.
